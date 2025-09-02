@@ -19,6 +19,6 @@ This project is developed to detect and recognize Bangla license plates using co
 
 ## How to Run
 ```bash
-git clone https://github.com/yourusername/Bangla_license_plate_project.git
+git clone https://github.com/samin2703/Bangla_license_plate_project.git
 cd Bangla_license_plate_project
 python main.py

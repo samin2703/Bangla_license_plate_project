@@ -10,7 +10,7 @@ Detects individual Bangla characters on license plates using **YOLOv8**, forming
 
 ## 📷 Demo / Example
 
-![Demo Image](assets/demo.png)  
+![Demo Image](test2.jpg)  
 *Replace this with your own detection image or GIF.*
 
 ---

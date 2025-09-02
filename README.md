@@ -11,7 +11,7 @@ Detects individual Bangla characters on license plates using **YOLOv8**, forming
 ## 📷 Demo / Example
 
 ![Demo Image](test2.jpg)  
-*Replace this with your own detection image or GIF.*
+
 
 ---
 

@@ -57,3 +57,13 @@ Detects individual Bangla characters on license plates using **YOLOv8**, forming
 ```bash
 git clone https://github.com/samin2703/Bangla_license_plate_project.git
 cd Bangla_license_plate_project
+🗂 Dataset
+
+The model uses a custom Bangla license plate dataset in YOLO format. Paths and configuration are defined in config.yaml.
+Dataset
+path: /path/to/your/bangla_lp_dataset
+train: images/train
+val: images/val
+
+
+Make sure to update paths according to your dataset location.

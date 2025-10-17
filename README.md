@@ -4,6 +4,7 @@ This project is developed to detect and recognize Bangla license plates using co
 
 ## Demo
 ![Bangla License Plate Demo](test2.jpg)
+![Demo with texts in order](pred.jpg)
 
 ## Project Structure
 - `main.py` : Main script for running detection  

@@ -3,7 +3,7 @@
 This project is developed to detect and recognize Bangla license plates using computer vision and deep learning techniques.
 
 ## Demo
-![Bangla License Plate Demo](pred3.jpg)
+![Bangla License Plate Demo](pred3.png)
 ![Demo with texts in order](pred2.png)
 
 ## Project Structure

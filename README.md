@@ -22,4 +22,4 @@ This project is developed to detect and recognize Bangla license plates using co
 ```bash
 git clone https://github.com/samin2703/Bangla_license_plate_project.git
 cd Bangla_license_plate_project
-python main.py
+streamlit run app.py

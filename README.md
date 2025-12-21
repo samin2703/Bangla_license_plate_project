@@ -1,4 +1,4 @@
-# Bangla License Plate Recognition
+# Bangla License Plate Recognition with Character Recognition
 
 This project is developed to detect and recognize Bangla license plates using computer vision and deep learning techniques.
 

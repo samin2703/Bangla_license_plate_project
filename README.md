@@ -3,8 +3,8 @@
 This project is developed to detect and recognize Bangla license plates using computer vision and deep learning techniques.
 
 ## Demo
-![Bangla License Plate Demo](test2.jpg)
-![Demo with texts in order](pred.png)
+![Bangla License Plate Demo](pred3.jpg)
+![Demo with texts in order](pred2.png)
 
 ## Project Structure
 - `main.py` : Main script for running detection  
